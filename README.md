@@ -1,2 +1,2 @@
 # chubaofs-charts
-Helm charts of ChubaoFS
+chubaofs-charts is for Helm charts repository
