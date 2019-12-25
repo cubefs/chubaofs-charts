@@ -3,9 +3,9 @@ entries:
   chubaofs:
   - apiVersion: v1
     appVersion: 1.4.0
-    created: "2019-12-05T14:36:05.257232777+08:00"
+    created: "2019-12-25T14:29:54.092000808+08:00"
     description: A Helm chart for ChubaoFS
-    digest: sha256:151196a8bf4b3df51dfe2b8ce8a9e6b53e0344b52038958871730d3fd425df7f
+    digest: a15afd2c84aa62ceaf8dfeef4056d20626b4d1762b640d3f09414ea3a3e78ce7
     home: https://chubao.io
     icon: https://raw.githubusercontent.com/chubaofs/chubaofs-helm/master/assets/chubaofs-logo.png
     keywords:
@@ -22,4 +22,4 @@ entries:
     urls:
     - chubaofs-1.4.1.tgz
     version: 1.4.1
-generated: "2019-12-04T18:08:44.785457696+08:00"
+generated: "2019-12-25T14:29:54.087415672+08:00"
