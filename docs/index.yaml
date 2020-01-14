@@ -2,8 +2,29 @@ apiVersion: v1
 entries:
   chubaofs:
   - apiVersion: v1
+    appVersion: 1.5.0
+    created: "2020-01-14T17:52:54.041574334+08:00"
+    description: A Helm chart for ChubaoFS
+    digest: 53e2272927ba711c0f38f22afac5223da22a311ed63e65e47baa9e081231a567
+    home: https://chubao.io
+    icon: https://raw.githubusercontent.com/chubaofs/chubaofs-helm/master/assets/chubaofs-logo.png
+    keywords:
+    - chubaofs
+    - chubaofs-helm
+    - chubaofs-csi
+    kubeVersion: '>=1.16.0'
+    maintainers:
+    - email: chengyu_l@126.com
+      name: Chengyu Liu
+    name: chubaofs
+    sources:
+    - https://github.com/chubaofs/chubaofs-helm
+    urls:
+    - chubaofs-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v1
     appVersion: 1.4.0
-    created: "2019-12-25T14:29:54.092000808+08:00"
+    created: "2020-01-14T17:52:54.037606423+08:00"
     description: A Helm chart for ChubaoFS
     digest: a15afd2c84aa62ceaf8dfeef4056d20626b4d1762b640d3f09414ea3a3e78ce7
     home: https://chubao.io
@@ -22,4 +43,4 @@ entries:
     urls:
     - chubaofs-1.4.1.tgz
     version: 1.4.1
-generated: "2019-12-25T14:29:54.087415672+08:00"
+generated: "2020-01-14T17:52:54.033274742+08:00"
